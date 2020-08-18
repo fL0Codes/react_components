@@ -1,3 +1,10 @@
+# Skill Card Component
+
+With the skill card component you can show the world how awesome you are in a specific topic.
+To really show the world how awesome you are, you can also add up to four key skills, which underpin your expertise.
+
+Finally, add a logo which stands for your skill.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
