@@ -2,7 +2,7 @@
 
 The following components can be found in this repository:
 
-- [Skill Card Component](./website-card-component/README.md)
+- [Skill Card Component](./website-skillcard-component/README.md)
 
 # How To Use
 
